@@ -1,6 +1,6 @@
-# Gauss Elimination
+# Gaussian Elimination
 
-This method, characterized by step‐by‐step elimination of the variables, is called Gaussian elimination.
+This method, characterized by step‐by‐step elimination of the variables, is called **Gaussian elimination**.
 The fundamental idea is to add multiples of one equation to the others in order to eliminate a variable and to continue this process until only one variable is left. Once this final variable is determined, its value is substituted back into the other equations in order to evaluate the remaining unknowns. 
 [source](https://www.cliffsnotes.com/study-guides/algebra/linear-algebra/linear-systems/gaussian-elimination)
 
