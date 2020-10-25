@@ -1,7 +1,7 @@
 
 public class GaussElimination {
 
-     double[][] equationMatrix; // 
+     double[][] equationMatrix; 
      double[] answers;
 
     GaussElimination(double[][] augmentedMatrix) {
@@ -10,7 +10,7 @@ public class GaussElimination {
 
     }
 
-    private void makeMatrixDiagonal() { // works
+    private void makeMatrixDiagonal() { 
         int shiftPivot = 0;
         for (int row = 0; row < equationMatrix.length; row++) {
             double pivot = equationMatrix[shiftPivot][shiftPivot];
